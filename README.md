@@ -1,4 +1,4 @@
-https://nikhilsajan2003.github.io/portfolio/
+
 # 🌐 Nikhil Sajan - Portfolio
 
 
@@ -6,6 +6,8 @@ https://nikhilsajan2003.github.io/portfolio/
 A simple and responsive personal portfolio built using basic HTML, CSS, and JavaScript — no frameworks, no dependencies.
 
 This portfolio showcases my skills, education, projects, certifications, and interests in a clean, minimal design.
+## 🚀 Live Demo
+https://nikhilsajan2003.github.io/portfolio/
 
 
 ## 📋 Features
